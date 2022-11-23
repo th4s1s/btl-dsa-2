@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Shorui\DSA\BTL\btl-dsa-2\ConcatStringTree.h(636,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Shorui\DSA\BTL\btl-dsa-2\ConcatStringTree.h(638,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Shorui\DSA\BTL\btl-dsa-2\ConcatStringTree.h(645,27): warning C4018: '<': signed/unsigned mismatch
+D:\Shorui\DSA\BTL\btl-dsa-2\ConcatStringTree.h(647,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Shorui\DSA\BTL\btl-dsa-2\ConcatStringTree.h(688,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Shorui\DSA\BTL\btl-dsa-2\ConcatStringTree.h(722,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Shorui\DSA\BTL\btl-dsa-2\ConcatStringTree.h(724,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  caclon.vcxproj -> D:\Shorui\DSA\BTL\btl-dsa-2\Debug\caclon.exe
